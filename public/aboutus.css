@@ -1,0 +1,189 @@
+.head2{
+  width:-webkit-fill-available;
+  position: absolute;
+  top:55px;
+  text-align: center;
+  padding: 5px;
+   background:linear-gradient(35deg, #5c0368 10%, #AE82B4 30%);
+}
+.head2 h1 {
+  color: #000000;
+  padding: 8px;
+  margin:auto;
+  font-size: 2.5rem;
+   position: relative;
+  right:10px;
+  font-family: Montserrat;
+  letter-spacing: 1px;
+
+}
+.card
+{
+  width:-webkit-fill-available;
+  position: absolute;
+  top:150px;
+  display: inline-flex;
+  padding-left: 10px;
+  padding-right: 10px;
+}
+
+.card1
+{
+  box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2);
+
+  position: relative;
+width: 30%;
+
+  text-align: center;
+  background-color: white;
+margin-left: 0px;
+font-family: Montserrat;
+margin-bottom: 8px;
+padding-bottom: 0px;
+box-shadow: 5px 5px 12px #5c0368;
+}
+.card1 img
+{
+  width:100%;
+    height:300;
+  background-color: black;
+}
+.card1 p
+{
+  color: grey;
+    font-size: 18px;
+}
+.card1 a{
+  padding: 4px;
+  width: 2px;
+  color: black
+  font-size: 22px;
+  color: black;
+}
+.card1 button {
+border: none;
+outline: 0;
+display: inline-block;
+padding-bottom: 0px;
+color: white;
+background-color: #000;
+text-align: center;
+cursor: pointer;
+width: 100%;
+font-size: 20px;
+}
+
+
+/* card2 */
+
+.card2
+{
+  box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2);
+
+  position: relative;
+width: 30%;
+
+  text-align: center;
+  background-color: white;
+margin-left: 70px;
+margin-right: 0px;
+font-family: Montserrat;
+margin-bottom: 8px;
+padding-bottom: 0px;
+box-shadow: 5px 5px 12px #5c0368;
+
+}
+.card2 img
+{
+  width:100%;
+  height:300;
+  background-color: black;
+}
+.card2 p
+{
+  color: grey;
+    font-size: 18px;
+}
+.card2 a{
+  padding: 4px;
+  width: 2px;
+  color: black
+  font-size: 22px;
+  color: black;
+}
+.card2 button {
+border: none;
+outline: 0;
+display: inline-block;
+padding-bottom: 0px;
+color: white;
+background-color: #000;
+text-align: center;
+cursor: pointer;
+width: 100%;
+font-size: 20px;
+}
+
+
+/* card3 */
+
+
+
+
+.card3
+{
+  box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2);
+
+  position: relative;
+width: 30%;
+
+  text-align: center;
+  background-color: white;
+margin-left: 70px;
+margin-right: 0px;
+font-family: Montserrat;
+margin-bottom: 8px;
+padding-bottom: 0px;
+box-shadow: 5px 5px 12px #5c0368;
+
+}
+.card3 img
+{
+  width:100%;
+  height:300;
+  background-color: black;
+}
+.card3 p
+{
+  color: grey;
+    font-size: 18px;
+}
+.card3 a{
+  padding: 4px;
+  width: 2px;
+  color: black
+  font-size: 22px;
+  color: black;
+}
+.card3 button {
+border: none;
+outline: 0;
+display: inline-block;
+padding-bottom: 0px;
+color: white;
+background-color: #000;
+text-align: center;
+cursor: pointer;
+width: 100%;
+font-size: 20px;
+}
+.bottomfooter7{
+
+  width: -webkit-fill-available;
+  position: absolute;
+  top:750px;
+  padding-bottom: 0px;
+  margin-bottom: 0px;
+
+
+}

@@ -1,0 +1,159 @@
+
+
+body {
+  margin: 0px;
+  padding: 0px;
+
+  height: 100%;
+background: white;
+  width:-webkit-fill-available;
+   font-family:Georgia, serif;
+   font-size:1em;
+   
+
+}
+
+
+.head1 h1
+{
+color:white;
+  padding: 8px;
+  margin:auto;
+  font-size: 2.5rem;
+  position: relative;
+  top:30px;
+  left:20px;
+  font-family: Montserrat;
+  letter-spacing: 1px;
+  right: 130px;
+  
+
+}
+.head1 {
+  display:inline-flex;
+  background:linear-gradient(35deg, #5c0368 10%, #AE82B4 30%);
+  margin: 0px;
+  padding: 6px;
+  -webkit-box-shadow: 0 8px 6px -6px black;
+  -moz-box-shadow: 0 8px 6px -6px black;
+   box-shadow: 0 8px 6px -6px black;
+   width:inherit;
+   z-index: 1;
+   height:8rem;
+}
+.p{
+    font-family:Georgia, serif;
+    font-size:1.2em;
+    margin:20px;
+    margin-right:20px;
+    color:black;
+   }
+
+
+
+
+.column {
+float: left;
+width: 33.33%;
+padding: 35px;
+
+}
+
+
+.row::after {
+content: "";
+clear: both;
+display: table;
+}
+.demo5{
+border: 3px solid  #5c0368;
+border-radius: 50%;
+ box-shadow: 5px 5px 12px #5c0368;
+
+}
+
+.demo5:hover {
+box-shadow: 5px 5px 30px #5c0368;
+
+}
+b{
+color: black;
+
+}
+h1:hover{color:#1F4E5F;
+
+
+}
+.button{
+background-color:black;
+color:#AACFD0;
+width: 350;
+height:60px ;
+border-color:darkgrey;
+border-width: 3px;
+font-size: 15px;
+
+}
+.button:hover{
+border-color:grey;
+}
+.demo6{border-color: #1F4E5F;
+border-width: 5px;
+
+
+}
+.demo6:hover{
+border-color:#79ABA9;
+
+}
+.mainimage1{
+
+  padding:40px;
+  margin-left:120px;
+  border:3px solid black;
+    box-shadow: 5px 10px 24px #AE82B4;
+ 
+ background:linear-gradient(35deg, #5c0368 30%, #AE82B4 45%);
+}
+
+
+
+.container6{
+  border-radius: 5px;
+  background-color:white;
+  padding: 20px 30px;
+  margin:30px 30px;
+ 
+   box-shadow: 5px 5px 12px #5c0368;
+  color:black;
+
+  font-size:1.2em;
+}
+.container6:hover{
+  border-radius: 5px;
+  background-color:white;
+  padding: 20px 30px;
+  margin:30px 30px;
+ 
+  color:black;
+
+  font-size:1.2em;
+   box-shadow: 5px 5px 24px #5c0368;
+}
+.video1
+{
+  
+  display: inline-flex;
+  width: -webkit-fill-available;
+margin-left: 90px;
+margin-right: 80px;
+
+
+
+}
+.video iframe
+{
+  padding: 10px;
+}
+
+

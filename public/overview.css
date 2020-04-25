@@ -1,0 +1,128 @@
+body{
+
+}
+
+.heading
+{
+  position: absolute;
+  top:60px;
+  padding: 20px;
+  text-align: center;
+    width:100%;
+    color: white;
+     background:linear-gradient(35deg, #5c0368 10%, #AE82B4 30%);
+
+}
+.heading h1
+{ 
+  position: relative;
+  right: 3px;
+  letter-spacing: 1px;
+  line-height: 2rem;
+  font-size: 3rem;
+  font-family: Montserrat;
+}
+.icon1
+{
+    position: absolute;
+    top:200px;
+    display: inline-flex;
+      width:-webkit-fill-available;
+      text-align: center;
+}
+.icon1 img
+{
+width: 10%;
+position:relative;
+ margin: 2rem;
+ margin-left: 110px;
+
+
+}
+.infor
+{
+  position: absolute;
+  top:400px;
+  color: white;
+  padding-left: 40px;
+  font-size: 2rem;
+  letter-spacing: 1px;
+    width:-webkit-fill-available;
+        background: linear-gradient(-5deg, #363636 70%, #5c0368 30%);
+        margin: 4px;
+        border-radius: 20%;
+}
+.what
+{
+  position: absolute;
+  top:500px;
+  color: white;
+  padding: 4px;
+  padding-left: 50px;
+  font-size: 1rem;
+  letter-spacing: .5px;
+  width:-webkit-fill-available;
+  background-color: #363636;
+  margin: 4px;
+  margin-left: 40px;
+  margin-right: 40px;
+  border-radius: 10px;
+
+}
+.what2
+{
+  padding: 4px;
+  padding-left: 30px;
+    position: relative;
+    background-color: #363636;
+    width:-webkit-fill-available;
+}
+.videoout
+{
+  width:-webkit-fill-available;
+position: absolute;
+top:1050px;
+display: inline-block;
+margin-bottom: 10px;
+}
+.videoout1
+{
+  width:-webkit-fill-available;
+position: absolute;
+top:1500px;
+display: inline-block;
+
+}
+
+.actual
+{
+position: relative;
+text-align: center;
+}
+.wh
+{
+  position: absolute;
+  top:800px;
+  width:-webkit-fill-available;
+    display: flex;
+    color: white;
+
+    font-size: 1rem;
+    letter-spacing: .5px;
+
+      margin: 10px;
+      margin-left: 40px;
+      margin-right: 40px;
+      border-radius: 10px;
+}
+/*footer*/
+.bottomfooter9{
+
+  width: -webkit-fill-available;
+  position: absolute;
+  top:1875px;
+  padding-bottom: 0px;
+  margin-bottom: 0px;
+
+
+}

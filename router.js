@@ -43,7 +43,11 @@ router.get("/table",function(req,res)
 {
   res.render("table");
 })
-
+router.get("/signup",function(req,res)
+{
+  res.render("signup")
+}
+)
 router.post("/Login.html",function(req){
   const email=req.body.email;
 

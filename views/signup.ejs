@@ -1,4 +1,3 @@
-
 <link href="//maxcdn.bootstrapcdn.com/bootstrap/4.1.1/css/bootstrap.min.css" rel="stylesheet" id="bootstrap-css">
 <script src="//maxcdn.bootstrapcdn.com/bootstrap/4.1.1/js/bootstrap.min.js"></script>
 <script src="//cdnjs.cloudflare.com/ajax/libs/jquery/3.2.1/jquery.min.js"></script>
@@ -14,13 +13,15 @@
 	<div class="d-flex justify-content-center h-100">
 		<div class="card">
 			<div class="card-header">
-				<h3>Sign In</h3>
+				<h3>Sign Up</h3>
 				<div class="d-flex justify-content-end social_icon">
-					<span><a href="/auth/google" role="button"><i class="fab fa-google-plus-square"></i></a></span>
+
+				<span><a href="/auth/google" role="button"><i class="fab fa-google-plus-square"></i></a></span>
+
 				</div>
 			</div>
 			<div class="card-body">
-				<form action="/Login" method="POST">
+				<form action="/signup" method="POST">
 					<div class="input-group form-group">
 						<div class="input-group-prepend">
 							<span class="input-group-text"><i class="fas fa-user"></i></span>
@@ -38,15 +39,14 @@
 						<input type="checkbox">Remember Me
 					</div>
 					<div class="form-group">
-						<input type="submit" value="Login" class="btn float-right login_btn">
+						<input type="submit" value="Signup" class="btn float-right login_btn">
 					</div>
 				</form>
 			</div>
 			<div class="card-footer">
 				<div class="d-flex justify-content-center links">
-					Don't have an account?<a href="/signup">Sign Up</a>
+					Have an account?<a href="#">Sign In</a>
 				</div>
-
 			</div>
 		</div>
 	</div>
@@ -62,7 +62,7 @@
         <span class="vertical-line">
         </span>
         <span class="hr1">
-          <a href="/aboutus">Contact Us</a><br>
+          <a href="#">Contact Us</a><br>
           <a style="text-align: center;" href="/faq">FAQ</a><br>
           <a style="text-align: center;" href="#">Home</a><br>
         </span>

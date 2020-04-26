@@ -12,6 +12,7 @@
   },
   "author": "nikhil",
   "license": "ISC",
+  "node":"12.16.1",
   "bugs": {
     "url": "https://github.com/nikhilgupta2001/webpowershell/issues"
   },

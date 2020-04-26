@@ -55,7 +55,7 @@ height: 100%;
   background-color: black;
   text-shadow:0px 0px 5px white;
   clip-path:polygon(0% 0%,85% 0%,100% 115%,0% 100%);
-  
+
 }
 .list span a{
   text-decoration: none;
@@ -64,7 +64,7 @@ height: 100%;
 
 .k li {
   display: inline-flex;
-  
+
   font-family: Gotu;
   padding-right:40px;
   padding-left:40px;
@@ -108,31 +108,31 @@ cursor: default;
   padding: 0px;
   overflow: hidden;
   transition: all 0.5s ease-in;
-  z-index: 1; 
+
   position: fixed;
   border: 1px solid transparent;
   border-radius:0px 0px 20px 0px;
-  z-index: 20;
+  z-index: 400;
   box-shadow: 5px 5px 5px black;
-  clip-path: polygon(0% 0%,100% 0%,90% 100%,0% 100%);
+  /* clip-path: polygon(0% 0%,100% 0%,90% 100%,0% 100%); */
 }
 
 
 .sidenav1{
   height:303px;
   width:250px;
-  
+
   clip-path:polygon(0px 0px,250px 0px,250px 175px,0px 300px,0px 0px);
   background:linear-gradient(45deg,#5c0368,white);
   z-index:30;
 }
 .sidenav2{
-  
+
   height:50%;
   width:250px;
   position:absolute;
   top:50%;
-  
+
   background:linear-gradient(315deg,white,#5c0368);
   clip-path:polygon(0% 0%,100% 175px,100% 100%,0% 100%);
 }
@@ -201,8 +201,8 @@ cursor: default;
   padding: 0px;
   margin-left: 0px;
   width:250px;
-  
-  
+
+
 }
 
 
@@ -218,7 +218,7 @@ cursor: default;
   margin: 0px 0px;
   text-align: center;
   text-shadow:0px 0px 6px black;
-  
+
 }
 .sideheader{
 position:absolute;
@@ -240,8 +240,8 @@ padding-left:10px;
 .sidelist li:hover {
   text-shadow:0px 0px 10px black;
   font-weight: 500;
-  
-  
+
+
 }
 
 .header {
@@ -251,8 +251,8 @@ padding-left:10px;
   height:500px;
   clip-path: polygon(0% 0%,100% 0%,100% 90%,50% 100%,0% 90%);
     overflow: hidden;
-    
-  
+
+
 
   font-size: 130px;
   font-family: Gotu;
@@ -262,7 +262,7 @@ padding-left:10px;
   background-size: cover;
   width:-webkit-fill-available;
   z-index:8;
-  
+
 }
 .replica{
   top: 80px;
@@ -292,13 +292,13 @@ background-color:white;
   background-color:whitesmoke;
   padding:40px;
   box-shadow: 5px 5px 12px #5c0368;
-  
+
 
 }
 .mainarea:hover{
   box-shadow:10px 10px 24px #5c0368;
-  
-  
+
+
 }
 
 #Mainarea {
@@ -307,7 +307,7 @@ background-color:white;
   top:600px;
   padding: 20px;
   width: -webkit-fill-available;
-  
+
 }
 
 .mainarea2 {
@@ -316,7 +316,7 @@ background-color:white;
   /* top: 300px; */
   /* left: 200px; */ */
   font-size: 1.2rem;
-  
+
   letter-spacing: .5px;
   border-radius: 8px;
   font-family: Montserrat;
@@ -332,7 +332,7 @@ background-color:white;
 }
 .mainarea2:hover{
   box-shadow:10px 10px 24px #5c0368;
-  
+
 }
 .hori1{
   position:absolute;
@@ -360,7 +360,7 @@ background-color:white;
   box-shadow: 0px 0px 18px #5c0368;
 }
 .slideslant1{
-  
+
   position:absolute;
   width:500px;
   height:390px;
@@ -369,7 +369,7 @@ background-color:white;
   clip-path: polygon(0% 0%,50% 0%,100% 100%,50% 100%);
 }
 .slideslant2{
-  
+
   position:absolute;
   width:500px;
   height:390px;
@@ -379,7 +379,7 @@ background-color:white;
 
 }
 .slideslant3{
-  
+
   position:absolute;
   width:500px;
   height:390px;
@@ -405,7 +405,7 @@ background-color:white;
   position: relative;
   width: 50%;
   box-shadow:0px 0px 20px #5c0368;
- 
+
 
   left: 50px;
   border-radius: 6px;
@@ -414,7 +414,7 @@ background-color:white;
   position: relative;
    width: 50%;
    box-shadow:0px 0px 20px #5c0368;
-   
+
 left:20px;
 
   /*top:48px; */
@@ -483,13 +483,13 @@ left:20px;
     color: #fff;
   }
 
- 
+
 
   .ent {
     display: inline-flex;
   }
 
-  
+
 
   #sidenav {
     height: 100%;
@@ -559,7 +559,7 @@ left:20px;
     font-family: Gotu;
     color: #fff;
     background-image: url("cor.png");
-    
+
   }
 
   .mainarea {
@@ -611,8 +611,8 @@ margin-bottom: 50px;
   background-color: #5c0368;
   box-shadow:0px 0px 20px #5c0368;
   z-index: 100;
-  
-    
+
+
 
 }
 .indian1
@@ -638,8 +638,8 @@ margin-bottom: 50px;
     box-shadow: 10px 10px 12px #5c0368;
    list-style-type:none;
    font-weight:bold;
-   
-  
+
+
 
 }
 .indian1 li:hover{
@@ -650,9 +650,9 @@ margin-bottom: 50px;
     box-shadow: 10px 5px 24px #5c0368;
    list-style-type:none;
    font-weight:bold;
-   
 
-  
+
+
 
 }
 .dots
@@ -703,7 +703,7 @@ overflow: hidden;
 }
 .table5{
   color:white;
-  
+
 }
 .table5:hover{
   font-weight:bold;
@@ -717,7 +717,7 @@ overflow: hidden;
   border: none;
   font-family: Gotu;
    cursor: pointer;
- 
+
 }
 
 .dropbtn:hover, .dropbtn:focus {
@@ -729,7 +729,7 @@ overflow: hidden;
  padding-left:10px;
   position: relative;
   display: inline-block;
-  
+
 }
 
 .dropdown-content {
@@ -741,10 +741,10 @@ overflow: hidden;
   box-shadow: 8px 8px 16px 4px rgba(0,0,0,0.2);
  margin-left:20px;
   z-index: 1;
- 
+
     left:0;
-   
-   
+
+
 }
 
 .dropdown-content a {
@@ -755,7 +755,7 @@ overflow: hidden;
   display: block;
   border-bottom:1px solid black;
   color: #5c0368;
-  
+
 }
 
 .dropdown a:hover {
@@ -790,7 +790,7 @@ font-weight:bold;
  padding-left:10px;
   position: relative;
   display: inline-block;
-   
+
 }
 
 .dropdown1-content {
@@ -801,8 +801,8 @@ font-weight:bold;
   overflow: auto;
   box-shadow: 8px 8px 16px 4px rgba(0,0,0,0.2);
   z-index: 1;
-  
-   
+
+
    left:0;
     margin-left:40px;
 }
@@ -827,5 +827,5 @@ font-weight:bold;
 
 .dropdown1:hover .dropdown1-content {
   display: block;
-  
+
 }

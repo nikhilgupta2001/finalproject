@@ -66,7 +66,7 @@ passport.deserializeUser(function(id, done) {
 passport.use(new GoogleStrategy({
     clientID: "767162949022-fj4m2q1eb559h9ebvsurn4901td3kjpr.apps.googleusercontent.com",
     clientSecret: "F3O9C21QEFxaPaEBgRlR8DJp",
-    callbackURL: "http://localhost:3000/auth/google/home",
+    callbackURL: "https://obscure-gorge-33633.herokuapp.com/auth/google/home",
     useProfileURL: "https://www.googleapis.com/oauth/v3/userinfo"
   },
   function(accessToken, refreshToken, profile, cb) {

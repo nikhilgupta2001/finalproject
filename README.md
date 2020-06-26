@@ -27,7 +27,10 @@ THE techs used:
 2) CSS
 3) J.S.
 4) NODE.JS
-5) EXPRESS.JS more...
+5) EXPRESS.JS 
+6)Authentication by using passport
+7)Mongodb
+more...
 
 CHALLENGES FACED-
  1) Making things to just be same among all us was a tedious task,  
